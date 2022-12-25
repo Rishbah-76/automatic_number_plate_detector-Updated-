@@ -40,26 +40,27 @@ streamlit run app.py
 
 - Streamlit To create webapp
 
+
 # Output
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/74089340/209456820-92808831-2ffe-4399-bb37-d7b24f771837.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74089340/209456820-92808831-2ffe-4399-bb37-d7b24f771837.gif?raw=true" alt="Sublime's custom image"/>
+</p>
+
 
 # contributor
 ```
 Author : Rishabh
 Contact: rbrishabh76@gmail.com
-```
-```
+
 Author: Shivansh Srivastava
 Contact: srivastavashiv0112@gmail.com
 
-```
 Author: Shreya Garg
-Contact: shreyagarg031@gmail.com
-```
+Contact: shreyagarg031@gmail.com 
 
-```
 Author: Shubyansh Rai
-Contact: shubhayansh@gmail.com```
+Contact: shubhayansh@gmail.com
+```
 
 
 
