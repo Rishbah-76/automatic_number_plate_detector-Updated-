@@ -1,5 +1,5 @@
 # automatic_number_plate_detector
-A yolov5 small model trained for detecting the number plate which led to improved efficency
+A yolov5 small model trained for detecting the number plate and easyOCR being used to extract the image text and convert into a string text which led to improved efficency.
 
 # Installation
 Step 1:
